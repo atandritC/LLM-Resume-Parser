@@ -16,7 +16,7 @@ dependencies = [
 ]
 
 [project.scripts]
-llm-resume-parser = "llm_resume_parser:main"
+llm-resume-parser = "llm_resume_parser.resume_parser:main"
 
 [build-system]
 requires = ["uv_build>=0.13.7,<0.14.0"]

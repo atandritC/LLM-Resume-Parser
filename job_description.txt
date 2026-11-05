@@ -1,0 +1,22 @@
+Associate Applied AI Engineer
+Northstar Labs · Pune, India · Hybrid · Full-time
+
+About the role
+Northstar Labs builds software that turns business documents and text into reliable, structured data. We are looking for an Associate Applied AI Engineer to help prototype and improve language-model features used in internal and customer-facing workflows.
+
+What you will do
+- Build Python services that process documents such as PDF and Word files.
+- Use hosted language-model APIs to extract, classify, and summarize information.
+- Validate model responses with typed schemas and return clean JSON through APIs.
+- Create evaluation examples, review errors, and improve prompts and extraction quality.
+- Work with product and engineering teammates on testing, documentation, and safe handling of confidential data.
+
+What we are looking for
+- Two or more years of experience with Python software development, data engineering, or applied machine learning.
+- Experience with REST APIs, SQL, Git, and automated testing.
+- Familiarity with an LLM API, NLP, information extraction, or document-processing tools.
+- Experience with Pydantic or another data-validation library is helpful.
+- Clear communication and a practical approach to debugging.
+- A degree in computer science, engineering, statistics, or equivalent practical experience.
+
+Experience deploying services with Docker or a cloud platform is a plus.
